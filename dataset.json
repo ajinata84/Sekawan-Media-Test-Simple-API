@@ -1,0 +1,3249 @@
+{
+  "data": [
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d14917627-Reviews-SaigonSan_Restaurant_Rooftop_Terrace-Malang_East_Java_Java",
+      "locationId": 14917627,
+      "name": "SaigonSan Restaurant & Rooftop Terrace",
+      "averageRating": 5,
+      "userReviewCount": 157,
+      "currentOpenStatusCategory": "CLOSING",
+      "currentOpenStatusText": "Closes in 6 min",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Thai", "Vietnamese"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/c1/17/ef/getlstd-property-photo.jpg?w=1200&h=800&s=1",
+      "heroImgRawHeight": 854,
+      "heroImgRawWidth": 1280,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/c1/17/ef/getlstd-property-photo.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/c1/17/ef/getlstd-property-photo.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 854,
+            "maxWidth": 1280
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Great Thai food in a gorgeous museum-like space and good vegetarian options",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d14917627-r860813694-SaigonSan_Restaurant_Rooftop_Terrace-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Simply perfect!",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d14917627-r961965555-SaigonSan_Restaurant_Rooftop_Terrace-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d2660869-Reviews-Melati_Restaurant-Malang_East_Java_Java",
+      "locationId": 2660869,
+      "name": "Melati Restaurant",
+      "averageRating": 4.5,
+      "userReviewCount": 284,
+      "currentOpenStatusCategory": "OPEN",
+      "currentOpenStatusText": "Open now",
+      "priceTag": "$$$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": [
+        "Chinese",
+        "International",
+        "Asian",
+        "Indonesian"
+      ],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/4a/61/3d/melati-restaurant.jpg?w=600&h=400&s=1",
+      "heroImgRawHeight": 420,
+      "heroImgRawWidth": 630,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/4a/61/3d/melati-restaurant.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/4a/61/3d/melati-restaurant.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 420,
+            "maxWidth": 630
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Malang is not filled with bars and finding a good drink is not always easy.",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d2660869-r860813067-Melati_Restaurant-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Best restaurant of Java!",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d2660869-r868238754-Melati_Restaurant-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d1944311-Reviews-Taman_Indie_River_View_Resto-Malang_East_Java_Java",
+      "locationId": 1944311,
+      "name": "Taman Indie River View Resto",
+      "averageRating": 4,
+      "userReviewCount": 492,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": [
+        "International",
+        "Asian",
+        "Indonesian"
+      ],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/30/2d/a0/taman-indie-river-view.jpg?w=1400&h=900&s=1",
+      "heroImgRawHeight": 985,
+      "heroImgRawWidth": 1489,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/30/2d/a0/taman-indie-river-view.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/30/2d/a0/taman-indie-river-view.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 985,
+            "maxWidth": 1489
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Good nature resto with the high price",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d1944311-r933956619-Taman_Indie_River_View_Resto-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Great food and atmosphere you must try...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d1944311-r759088840-Taman_Indie_River_View_Resto-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d1944305-Reviews-Rumah_Makan_Inggil-Malang_East_Java_Java",
+      "locationId": 1944305,
+      "name": "Rumah Makan Inggil",
+      "averageRating": 4,
+      "userReviewCount": 600,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/a0/88/be/photo0jpg.jpg?w=2000&h=1500&s=1",
+      "heroImgRawHeight": 1536,
+      "heroImgRawWidth": 2048,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/a0/88/be/photo0jpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/a0/88/be/photo0jpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1536,
+            "maxWidth": 2048
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "I had the Nasi Goreng with soya, my children had the deep squid and prawns, w...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d1944305-r904292768-Rumah_Makan_Inggil-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Nothing could beat a well- arranged retro...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d1944305-r752565011-Rumah_Makan_Inggil-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d7377719-Reviews-Depot_Rawon_Nguling_Malang-Malang_East_Java_Java",
+      "locationId": 7377719,
+      "name": "Depot Rawon Nguling Malang",
+      "averageRating": 4,
+      "userReviewCount": 291,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian", "Soups"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d9/f5/01/20190609-090338-largejpg.jpg?w=700&h=500&s=1",
+      "heroImgRawHeight": 531,
+      "heroImgRawWidth": 708,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d9/f5/01/20190609-090338-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d9/f5/01/20190609-090338-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 531,
+            "maxWidth": 708
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Delicious Rawon ( Black beef soup) in Malang",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7377719-r834004197-Depot_Rawon_Nguling_Malang-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "It's essentially a black soup with rice...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7377719-r922157098-Depot_Rawon_Nguling_Malang-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d14124163-Reviews-AhYat_Abalone_Forum_Restaurant-Malang_East_Java_Java",
+      "locationId": 14124163,
+      "name": "AhYat Abalone Forum Restaurant",
+      "averageRating": 5,
+      "userReviewCount": 82,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$$$",
+      "hasMenu": true,
+      "menuUrl": "https://wa.me/6281132289797",
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Chinese", "Seafood", "Asian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/16/3c/23/we-d-very-much-looking.jpg?w=3400&h=2300&s=1",
+      "heroImgRawHeight": 2304,
+      "heroImgRawWidth": 3456,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/16/3c/23/we-d-very-much-looking.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/16/3c/23/we-d-very-much-looking.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 2304,
+            "maxWidth": 3456
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Birthday celebration",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d14124163-r840674358-AhYat_Abalone_Forum_Restaurant-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "... or dinner with your family or friends.",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d14124163-r856646902-AhYat_Abalone_Forum_Restaurant-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d19929382-Reviews-La_Regina_Ristorante_Italiano-Malang_East_Java_Java",
+      "locationId": 19929382,
+      "name": "La Regina Ristorante Italiano",
+      "averageRating": 5,
+      "userReviewCount": 65,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": [
+        "Italian",
+        "Pizza",
+        "European",
+        "Diner",
+        "Central-Italian"
+      ],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b0/bc/3b/the-best-italian-food.jpg?w=1200&h=800&s=1",
+      "heroImgRawHeight": 853,
+      "heroImgRawWidth": 1280,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b0/bc/3b/the-best-italian-food.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b0/bc/3b/the-best-italian-food.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 853,
+            "maxWidth": 1280
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Best pasta and lasagna!",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d19929382-r949576842-La_Regina_Ristorante_Italiano-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "... a live concert at their terrace 🫶🏽",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d19929382-r973446499-La_Regina_Ristorante_Italiano-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d8284767-Reviews-Javanine_Resto-Malang_East_Java_Java",
+      "locationId": 8284767,
+      "name": "Javanine Resto",
+      "averageRating": 4,
+      "userReviewCount": 198,
+      "currentOpenStatusCategory": "OPEN",
+      "currentOpenStatusText": "Open now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b9/f8/3d/20200126-145337-largejpg.jpg?w=1000&h=700&s=1",
+      "heroImgRawHeight": 750,
+      "heroImgRawWidth": 1000,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b9/f8/3d/20200126-145337-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b9/f8/3d/20200126-145337-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 750,
+            "maxWidth": 1000
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Javanine is one of the best Indonesian resto. But the price is expensive. You...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8284767-r611256856-Javanine_Resto-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Little bit pricey but worth it",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8284767-r959757870-Javanine_Resto-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d3631208-Reviews-Bakso_Bakar_Pak_Man-Malang_East_Java_Java",
+      "locationId": 3631208,
+      "name": "Bakso Bakar Pak Man",
+      "averageRating": 4,
+      "userReviewCount": 255,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/25/d6/ca/20190413-220121-largejpg.jpg?w=700&h=800&s=1",
+      "heroImgRawHeight": 897,
+      "heroImgRawWidth": 720,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/25/d6/ca/20190413-220121-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/25/d6/ca/20190413-220121-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 897,
+            "maxWidth": 720
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Beside bakso bakar, you can try bakso kuah too, it is a soup version of...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d3631208-r738764307-Bakso_Bakar_Pak_Man-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "It’s good",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d3631208-r668619119-Bakso_Bakar_Pak_Man-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d7393600-Reviews-Depot_Hok_Lay-Malang_East_Java_Java",
+      "locationId": 7393600,
+      "name": "Depot Hok Lay",
+      "averageRating": 4,
+      "userReviewCount": 131,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Chinese", "Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/5c/83/44/20180316-090418-largejpg.jpg?w=900&h=600&s=1",
+      "heroImgRawHeight": 691,
+      "heroImgRawWidth": 921,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/5c/83/44/20180316-090418-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/5c/83/44/20180316-090418-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 691,
+            "maxWidth": 921
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "... decor and authentic old-school vibes that have stood the test of time.",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7393600-r974472075-Depot_Hok_Lay-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "i'd oredr it over and over again.. -the...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7393600-r729913056-Depot_Hok_Lay-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d12685270-Reviews-The_Arbanat-Malang_East_Java_Java",
+      "locationId": 12685270,
+      "name": "The Arbanat",
+      "averageRating": 4.5,
+      "userReviewCount": 68,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": [
+        "American",
+        "Southwestern",
+        "Bar",
+        "Cafe",
+        "European",
+        "Asian",
+        "Indonesian"
+      ],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/22/08/c9/arbanat-kitchencafelounge.jpg?w=900&h=700&s=1",
+      "heroImgRawHeight": 794,
+      "heroImgRawWidth": 995,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/22/08/c9/arbanat-kitchencafelounge.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/22/08/c9/arbanat-kitchencafelounge.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 794,
+            "maxWidth": 995
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "The baristas know what they're doing and can prepare your coffee any number of...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d12685270-r765834658-The_Arbanat-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Mrs",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d12685270-r845475362-The_Arbanat-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d6736926-Reviews-Depot_Gang_Jangkrik-Malang_East_Java_Java",
+      "locationId": 6736926,
+      "name": "Depot Gang Jangkrik",
+      "averageRating": 4,
+      "userReviewCount": 162,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Chinese", "Asian", "Hong Kong"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/15/b8/7b/img-20160925-060425-largejpg.jpg?w=1300&h=700&s=1",
+      "heroImgRawHeight": 747,
+      "heroImgRawWidth": 1303,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/15/b8/7b/img-20160925-060425-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/15/b8/7b/img-20160925-060425-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 747,
+            "maxWidth": 1303
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "but you can taste pork, shrimp, duck, chicken, meat, with rich taste of flavor...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d6736926-r743826524-Depot_Gang_Jangkrik-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Celebrating graduation of my sister",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d6736926-r697781596-Depot_Gang_Jangkrik-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d21381036-Reviews-Mager_Makan_Burger_Malang-Malang_East_Java_Java",
+      "locationId": 21381036,
+      "name": "Mager Makan Burger Malang",
+      "averageRating": 5,
+      "userReviewCount": 29,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": [
+        "American",
+        "Fast Food",
+        "Asian",
+        "Korean",
+        "Indonesian"
+      ],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/4b/68/aa/original-beef-rich-taste.jpg?w=1900&h=1000&s=1",
+      "heroImgRawHeight": 1080,
+      "heroImgRawWidth": 1920,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/4b/68/aa/original-beef-rich-taste.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/4b/68/aa/original-beef-rich-taste.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1080,
+            "maxWidth": 1920
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Mager burger",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d21381036-r786584359-Mager_Makan_Burger_Malang-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Burger",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d21381036-r787229206-Mager_Makan_Burger_Malang-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d6783480-Reviews-Illy_Cafe_Malang-Malang_East_Java_Java",
+      "locationId": 6783480,
+      "name": "Illy Cafe Malang",
+      "averageRating": 4,
+      "userReviewCount": 97,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": [
+        "Italian",
+        "Southwestern",
+        "Cafe",
+        "European"
+      ],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/a0/24/d5/screenshot-20191014165651.jpg?w=1000&h=1400&s=1",
+      "heroImgRawHeight": 1412,
+      "heroImgRawWidth": 1079,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/a0/24/d5/screenshot-20191014165651.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/a0/24/d5/screenshot-20191014165651.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1412,
+            "maxWidth": 1079
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "I always spare my time to visit this place whenever I go shopping to Lai-lai...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d6783480-r566162442-Illy_Cafe_Malang-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "More a western cafe",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d6783480-r738901915-Illy_Cafe_Malang-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d9710007-Reviews-Depot_Gang_Djangkrik-Malang_East_Java_Java",
+      "locationId": 9710007,
+      "name": "Depot Gang Djangkrik",
+      "averageRating": 4.5,
+      "userReviewCount": 83,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": [
+        "Chinese",
+        "Asian",
+        "Indonesian",
+        "Cantonese"
+      ],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/85/0a/20/photo1jpg.jpg?w=2000&h=2000&s=1",
+      "heroImgRawHeight": 2048,
+      "heroImgRawWidth": 2048,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/85/0a/20/photo1jpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/85/0a/20/photo1jpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 2048,
+            "maxWidth": 2048
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "We ordered Chinese food during our stays in Malang in HS Premiere, The taste...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d9710007-r737240045-Depot_Gang_Djangkrik-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Still the best",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d9710007-r737548189-Depot_Gang_Djangkrik-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d4233197-Reviews-Ayam_Goreng_Tenes_Malang-Malang_East_Java_Java",
+      "locationId": 4233197,
+      "name": "Ayam Goreng Tenes Malang",
+      "averageRating": 4,
+      "userReviewCount": 97,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/36/24/f5/photo7jpg.jpg?w=2000&h=1500&s=1",
+      "heroImgRawHeight": 1536,
+      "heroImgRawWidth": 2048,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/36/24/f5/photo7jpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/36/24/f5/photo7jpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1536,
+            "maxWidth": 2048
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Take a look to our photos. And you must order SAMBAL PECIT like mangoes chili...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d4233197-r739904443-Ayam_Goreng_Tenes_Malang-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Amazing local fried chicken",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d4233197-r724063186-Ayam_Goreng_Tenes_Malang-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d4233373-Reviews-Bakso_Kota_Cak_Man-Malang_East_Java_Java",
+      "locationId": 4233373,
+      "name": "Bakso Kota Cak Man",
+      "averageRating": 4,
+      "userReviewCount": 139,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Fast Food", "Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/86/4d/40/bakso-kota-cak-man-malang.jpg?w=1200&h=600&s=1",
+      "heroImgRawHeight": 651,
+      "heroImgRawWidth": 1250,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/86/4d/40/bakso-kota-cak-man-malang.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/86/4d/40/bakso-kota-cak-man-malang.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 651,
+            "maxWidth": 1250
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "This is definitely one of my favourite meatball choice in malang. Great taste...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d4233373-r583144301-Bakso_Kota_Cak_Man-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Halal food with a good taste",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d4233373-r571780413-Bakso_Kota_Cak_Man-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d2281758-Reviews-Harmoni_Cafe_Resto-Malang_East_Java_Java",
+      "locationId": 2281758,
+      "name": "Harmoni Cafe & Resto",
+      "averageRating": 4,
+      "userReviewCount": 111,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/75/c4/02/photo1jpg.jpg?w=2000&h=1500&s=1",
+      "heroImgRawHeight": 1536,
+      "heroImgRawWidth": 2048,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/75/c4/02/photo1jpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/75/c4/02/photo1jpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1536,
+            "maxWidth": 2048
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Great ambience, tasty food with reasonable price. Located in the middle of the...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d2281758-r641405767-Harmoni_Cafe_Resto-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Good oriental resto",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d2281758-r937421286-Harmoni_Cafe_Resto-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d3440253-Reviews-Bakso_Gondhol-Malang_East_Java_Java",
+      "locationId": 3440253,
+      "name": "Bakso Gondhol",
+      "averageRating": 4,
+      "userReviewCount": 107,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$",
+      "hasMenu": true,
+      "menuUrl": "http://makanlagi.com/harga-menu-di-jardin-patisserie-malang/",
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/4e/b1/bc/bakso-gondhol.jpg?w=1600&h=1200&s=1",
+      "heroImgRawHeight": 1248,
+      "heroImgRawWidth": 1683,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/4e/b1/bc/bakso-gondhol.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/4e/b1/bc/bakso-gondhol.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1248,
+            "maxWidth": 1683
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "My favorite is the \"bakso kasar\" and the tofu. Although the place is not a...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d3440253-r566148169-Bakso_Gondhol-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "nice pork meatballs",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d3440253-r627927628-Bakso_Gondhol-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d6366395-Reviews-Waroeng_SS_Spesial_Sambal-Malang_East_Java_Java",
+      "locationId": 6366395,
+      "name": "Waroeng SS (Spesial Sambal)",
+      "averageRating": 4,
+      "userReviewCount": 84,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e1/3a/78/ayam-bakar-ss.jpg?w=1000&h=700&s=1",
+      "heroImgRawHeight": 768,
+      "heroImgRawWidth": 1024,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e1/3a/78/ayam-bakar-ss.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e1/3a/78/ayam-bakar-ss.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 768,
+            "maxWidth": 1024
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "for example ayam bakar for 16K, nasi sepuasnya 3,5K, orange ice 3,5 K, avocado...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d6366395-r565822537-Waroeng_SS_Spesial_Sambal-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Find your favorite chilli sauce here",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d6366395-r695620476-Waroeng_SS_Spesial_Sambal-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d11824199-Reviews-Pintbait_Pastahouse-Malang_East_Java_Java",
+      "locationId": 11824199,
+      "name": "Pintbait Pastahouse",
+      "averageRating": 4.5,
+      "userReviewCount": 48,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Italian", "European"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a0/9c/aa/caption.jpg?w=2000&h=1100&s=1",
+      "heroImgRawHeight": 1198,
+      "heroImgRawWidth": 2048,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a0/9c/aa/caption.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a0/9c/aa/caption.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1198,
+            "maxWidth": 2048
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "The pasta are really fresh en tasteful. Best pasta I ate in weeks. Also a very...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d11824199-r733377032-Pintbait_Pastahouse-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Yummy",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d11824199-r690393860-Pintbait_Pastahouse-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d6884561-Reviews-Rumah_Makan_Kertanegara-Malang_East_Java_Java",
+      "locationId": 6884561,
+      "name": "Rumah Makan Kertanegara",
+      "averageRating": 4,
+      "userReviewCount": 109,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": true,
+      "menuUrl": "http://www.kertanegararesto.com/#menu",
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": [
+        "Cafe",
+        "Seafood",
+        "Asian",
+        "Grill",
+        "Indonesian"
+      ],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/13/8a/2f/img-20170106-wa0043-largejpg.jpg?w=1200&h=700&s=1",
+      "heroImgRawHeight": 720,
+      "heroImgRawWidth": 1280,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/13/8a/2f/img-20170106-wa0043-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/13/8a/2f/img-20170106-wa0043-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 720,
+            "maxWidth": 1280
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Nice big airy place with a large menu. A bit upscale and so Are the prices, but...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d6884561-r414563433-Rumah_Makan_Kertanegara-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Family restaurant with tasty food",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d6884561-r558582707-Rumah_Makan_Kertanegara-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d8553780-Reviews-Djati_Lounge-Malang_East_Java_Java",
+      "locationId": 8553780,
+      "name": "Djati Lounge",
+      "averageRating": 4,
+      "userReviewCount": 102,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": [
+        "Bar",
+        "Cafe",
+        "European",
+        "Indonesian"
+      ],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/2f/e3/4d/20190122-123148-largejpg.jpg?w=1000&h=700&s=1",
+      "heroImgRawHeight": 756,
+      "heroImgRawWidth": 1008,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/2f/e3/4d/20190122-123148-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/2f/e3/4d/20190122-123148-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 756,
+            "maxWidth": 1008
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Highly recommended for anyone seeking a taste of luxury!",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8553780-r971658476-Djati_Lounge-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "the place was cozy.. with golf view...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8553780-r446649454-Djati_Lounge-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d8780518-Reviews-Rawon_Rampal-Malang_East_Java_Java",
+      "locationId": 8780518,
+      "name": "Rawon Rampal",
+      "averageRating": 4,
+      "userReviewCount": 67,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/3b/18/fc/photo1jpg.jpg?w=2000&h=1500&s=1",
+      "heroImgRawHeight": 1536,
+      "heroImgRawWidth": 2048,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/3b/18/fc/photo1jpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/3b/18/fc/photo1jpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1536,
+            "maxWidth": 2048
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "The elaborate manual and traditional work to make meat tender is excellent. I...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8780518-r662569413-Rawon_Rampal-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Sinful Paradise",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8780518-r507762762-Rawon_Rampal-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d14116190-Reviews-Signora_Pasta-Malang_East_Java_Java",
+      "locationId": 14116190,
+      "name": "Signora Pasta",
+      "averageRating": 4.5,
+      "userReviewCount": 30,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": null,
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Italian", "Pizza"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/af/a6/1e/img-20180730-141058-largejpg.jpg?w=1000&h=700&s=1",
+      "heroImgRawHeight": 780,
+      "heroImgRawWidth": 1040,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/af/a6/1e/img-20180730-141058-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/af/a6/1e/img-20180730-141058-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 780,
+            "maxWidth": 1040
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "The best Pasta and Italian food in malang with affordable price..! The owner is...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d14116190-r666544621-Signora_Pasta-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Good food and Experience",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d14116190-r945903025-Signora_Pasta-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d7134083-Reviews-Nasi_Pecel_Kawi-Malang_East_Java_Java",
+      "locationId": 7134083,
+      "name": "Nasi Pecel Kawi",
+      "averageRating": 4,
+      "userReviewCount": 108,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/05/da/58/suasana-lantai-2-kami.jpg?w=3700&h=2800&s=1",
+      "heroImgRawHeight": 2844,
+      "heroImgRawWidth": 3793,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/05/da/58/suasana-lantai-2-kami.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/05/da/58/suasana-lantai-2-kami.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 2844,
+            "maxWidth": 3793
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "I love it. After all the food and meat in malang, eating a good vegetarian...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7134083-r642340745-Nasi_Pecel_Kawi-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Naci Pecel Kawi Hj Musilah Malang",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7134083-r738765526-Nasi_Pecel_Kawi-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d8293830-Reviews-Bakwan_Subur-Malang_East_Java_Java",
+      "locationId": 8293830,
+      "name": "Bakwan Subur",
+      "averageRating": 4,
+      "userReviewCount": 55,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/45/a6/1c/basobakwan.jpg?w=1500&h=1500&s=1",
+      "heroImgRawHeight": 1500,
+      "heroImgRawWidth": 1500,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/45/a6/1c/basobakwan.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/45/a6/1c/basobakwan.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1500,
+            "maxWidth": 1500
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "I ordered different types of their bakwan but my favorite ones were their tofus...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8293830-r476292280-Bakwan_Subur-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Really tasty meatballs (bakso), but broth is too salty",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8293830-r672124235-Bakwan_Subur-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d8553782-Reviews-Madam_Wang_Secret_Garden-Malang_East_Java_Java",
+      "locationId": 8553782,
+      "name": "Madam Wang Secret Garden",
+      "averageRating": 4,
+      "userReviewCount": 79,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Cafe", "Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c2/d7/88/img-20190602-wa0059-largejpg.jpg?w=1100&h=800&s=1",
+      "heroImgRawHeight": 864,
+      "heroImgRawWidth": 1152,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c2/d7/88/img-20190602-wa0059-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c2/d7/88/img-20190602-wa0059-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 864,
+            "maxWidth": 1152
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "We drop by this place after reading the Malang cafe review and we are glad we...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8553782-r710102294-Madam_Wang_Secret_Garden-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "... 2 portions of pasta and a pizza for...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8553782-r969407994-Madam_Wang_Secret_Garden-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d7146132-Reviews-Warung_Sambal_Kocok_Mamah_Sum_Gendut-Malang_East_Java_Java",
+      "locationId": 7146132,
+      "name": "Warung Sambal Kocok Mamah Sum Gendut",
+      "averageRating": 4,
+      "userReviewCount": 61,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/3b/f6/6d/rustic-wood-table-setting.jpg?w=2000&h=1500&s=1",
+      "heroImgRawHeight": 1500,
+      "heroImgRawWidth": 2000,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/3b/f6/6d/rustic-wood-table-setting.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/3b/f6/6d/rustic-wood-table-setting.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1500,
+            "maxWidth": 2000
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Great tAste, great food, Indonesian cuisine with East Java herb. You must try...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7146132-r679101051-Warung_Sambal_Kocok_Mamah_Sum_Gendut-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "heven of sambal",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7146132-r586330801-Warung_Sambal_Kocok_Mamah_Sum_Gendut-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d1141363-Reviews-Depot_Mie_Sawahan-Malang_East_Java_Java",
+      "locationId": 1141363,
+      "name": "Depot Mie Sawahan",
+      "averageRating": 4,
+      "userReviewCount": 62,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Chinese", "Asian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/e8/69/83/psx-20180129-191503-largejpg.jpg?w=1100&h=1100&s=1",
+      "heroImgRawHeight": 1134,
+      "heroImgRawWidth": 1128,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/e8/69/83/psx-20180129-191503-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/e8/69/83/psx-20180129-191503-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1134,
+            "maxWidth": 1128
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "The taste is still the same as I remembered. Though famous for its cwie mie...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d1141363-r517220441-Depot_Mie_Sawahan-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Great taste. Might be a bit crowded.",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d1141363-r496464515-Depot_Mie_Sawahan-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d8336668-Reviews-Ronde_Titoni-Malang_East_Java_Java",
+      "locationId": 8336668,
+      "name": "Ronde Titoni",
+      "averageRating": 4,
+      "userReviewCount": 61,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/dd/0c/7b/photo0jpg.jpg?w=2000&h=2000&s=1",
+      "heroImgRawHeight": 2048,
+      "heroImgRawWidth": 2048,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/dd/0c/7b/photo0jpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/dd/0c/7b/photo0jpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 2048,
+            "maxWidth": 2048
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "every vendor has different style of angsle, ronde, and kacang kuah. since I...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8336668-r680512903-Ronde_Titoni-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Enjoy Malang Typical Food, Ronde and Anglse",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8336668-r695073425-Ronde_Titoni-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d3631212-Reviews-Niki_Kopitiam_Cafe_and_Resto-Malang_East_Java_Java",
+      "locationId": 3631212,
+      "name": "Niki Kopitiam Cafe and Resto",
+      "averageRating": 4,
+      "userReviewCount": 76,
+      "currentOpenStatusCategory": "CLOSING",
+      "currentOpenStatusText": "Closes in 4 min",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Cafe", "Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/8f/56/6e/img-20180910-wa0069-largejpg.jpg?w=1000&h=700&s=1",
+      "heroImgRawHeight": 780,
+      "heroImgRawWidth": 1040,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/8f/56/6e/img-20180910-wa0069-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/8f/56/6e/img-20180910-wa0069-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 780,
+            "maxWidth": 1040
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Variety menu, fast service, friendly staff.Our favorite dishes are crabs soka...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d3631212-r721915589-Niki_Kopitiam_Cafe_and_Resto-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Nice view and good location",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d3631212-r739058719-Niki_Kopitiam_Cafe_and_Resto-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d3668709-Reviews-Hungry_Kitten-Malang_East_Java_Java",
+      "locationId": 3668709,
+      "name": "Hungry Kitten",
+      "averageRating": 4,
+      "userReviewCount": 65,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["American"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/b7/7d/d0/interior.jpg?w=1000&h=700&s=1",
+      "heroImgRawHeight": 768,
+      "heroImgRawWidth": 1024,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/b7/7d/d0/interior.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/b7/7d/d0/interior.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 768,
+            "maxWidth": 1024
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "The foods I ordered was all had a good taste, worth with the price. Beef is...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d3668709-r782104683-Hungry_Kitten-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Almost perfect.",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d3668709-r697125727-Hungry_Kitten-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d12550408-Reviews-BaReLo_Restaurant-Malang_East_Java_Java",
+      "locationId": 12550408,
+      "name": "BaReLo Restaurant",
+      "averageRating": 4.5,
+      "userReviewCount": 29,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/8e/a8/34/getlstd-property-photo.jpg?w=1800&h=1200&s=1",
+      "heroImgRawHeight": 1248,
+      "heroImgRawWidth": 1871,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/8e/a8/34/getlstd-property-photo.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/8e/a8/34/getlstd-property-photo.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1248,
+            "maxWidth": 1871
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "A lot of different type of food, from traditional to modern one, and really...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d12550408-r509535845-BaReLo_Restaurant-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Tasty",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d12550408-r695074373-BaReLo_Restaurant-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d7981145-Reviews-Bakso_Bakar_Trowulan-Malang_East_Java_Java",
+      "locationId": 7981145,
+      "name": "Bakso Bakar Trowulan",
+      "averageRating": 4,
+      "userReviewCount": 59,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e8/30/54/photo0jpg.jpg?w=2000&h=2000&s=1",
+      "heroImgRawHeight": 2048,
+      "heroImgRawWidth": 2048,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e8/30/54/photo0jpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e8/30/54/photo0jpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 2048,
+            "maxWidth": 2048
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "The taste is very good. You can also enjoy the traditional way of eating...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7981145-r642539863-Bakso_Bakar_Trowulan-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Delicious yet a bit expensive",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7981145-r481534325-Bakso_Bakar_Trowulan-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d8385366-Reviews-Rumah_Makan_Mesir-Malang_East_Java_Java",
+      "locationId": 8385366,
+      "name": "Rumah Makan Mesir",
+      "averageRating": 4.5,
+      "userReviewCount": 35,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": [
+        "Asian",
+        "Middle Eastern",
+        "Indonesian"
+      ],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/bc/74/9b/img-20180110-211026-largejpg.jpg?w=2000&h=1500&s=1",
+      "heroImgRawHeight": 1536,
+      "heroImgRawWidth": 2048,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/bc/74/9b/img-20180110-211026-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/bc/74/9b/img-20180110-211026-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1536,
+            "maxWidth": 2048
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Assalamu'alaikum Warahmatullah Wabarakatuh We order rice and Lamb Oven here...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8385366-r625232720-Rumah_Makan_Mesir-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Founded in 1976, this restaurant relies on Middle Eastern-style cuisine.",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8385366-r694936173-Rumah_Makan_Mesir-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d23326567-Reviews-Nk_Cafe-Malang_East_Java_Java",
+      "locationId": 23326567,
+      "name": "Nk Cafe",
+      "averageRating": 4.5,
+      "userReviewCount": 17,
+      "currentOpenStatusCategory": "CLOSING",
+      "currentOpenStatusText": "Closes in 4 min",
+      "priceTag": null,
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": [
+        "Cafe",
+        "Barbecue",
+        "Asian",
+        "Diner",
+        "Indonesian"
+      ],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/e2/bc/7f/img20210418175151-largejpg.jpg?w=1000&h=700&s=1",
+      "heroImgRawHeight": 750,
+      "heroImgRawWidth": 1000,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/e2/bc/7f/img20210418175151-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/e2/bc/7f/img20210418175151-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 750,
+            "maxWidth": 1000
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Cozy Place to Refresh ini Malang Region . We can enjoying amazing view about...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d23326567-r786883908-Nk_Cafe-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Terrible service nice place.",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d23326567-r978473181-Nk_Cafe-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d10253359-Reviews-Bakso_President-Malang_East_Java_Java",
+      "locationId": 10253359,
+      "name": "Bakso President",
+      "averageRating": 4,
+      "userReviewCount": 56,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/a0/86/ef/photo1jpg.jpg?w=1500&h=2000&s=1",
+      "heroImgRawHeight": 2048,
+      "heroImgRawWidth": 1536,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/a0/86/ef/photo1jpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/a0/86/ef/photo1jpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 2048,
+            "maxWidth": 1536
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Pretty cool joint on the other side of the tracks. The bakso is pretty good...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d10253359-r695331977-Bakso_President-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Still the best grilled meatballs I ever had",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d10253359-r592081016-Bakso_President-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d3639672-Reviews-Bakso_Bakar_Pahlawan_Trip-Malang_East_Java_Java",
+      "locationId": 3639672,
+      "name": "Bakso Bakar Pahlawan Trip",
+      "averageRating": 3.5,
+      "userReviewCount": 142,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ca/4e/29/photo1jpg.jpg?w=1500&h=1100&s=1",
+      "heroImgRawHeight": 1152,
+      "heroImgRawWidth": 1536,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ca/4e/29/photo1jpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ca/4e/29/photo1jpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1152,
+            "maxWidth": 1536
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "If you walk along ijen boulevard, you'll be on your way to this bakso bakar...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d3639672-r728542612-Bakso_Bakar_Pahlawan_Trip-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "not that special",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d3639672-r691988689-Bakso_Bakar_Pahlawan_Trip-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d9553122-Reviews-Labore_Coffee_Eatery-Malang_East_Java_Java",
+      "locationId": 9553122,
+      "name": "Labore Coffee Eatery",
+      "averageRating": 4,
+      "userReviewCount": 53,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Cafe", "Asian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d7/43/b7/20181225-102744-largejpg.jpg?w=700&h=500&s=1",
+      "heroImgRawHeight": 531,
+      "heroImgRawWidth": 708,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d7/43/b7/20181225-102744-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d7/43/b7/20181225-102744-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 531,
+            "maxWidth": 708
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "The food is good but we love the monster shake, chocolate overload. Too bad we...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d9553122-r552366266-Labore_Coffee_Eatery-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "good ambience and helpful staffs",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d9553122-r729911015-Labore_Coffee_Eatery-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d3631201-Reviews-Sensa_Pusat_Oleh_Oleh_Khas_Malang-Malang_East_Java_Java",
+      "locationId": 3631201,
+      "name": "Sensa Pusat Oleh-Oleh Khas Malang",
+      "averageRating": 4,
+      "userReviewCount": 54,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/7f/8c/3b/sensa-logo.jpg?w=700&h=700&s=1",
+      "heroImgRawHeight": 700,
+      "heroImgRawWidth": 714,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/7f/8c/3b/sensa-logo.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/7f/8c/3b/sensa-logo.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 700,
+            "maxWidth": 714
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Pia Mangkok, snacks, traditional snacks. All in one place One stop shopping...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d3631201-r627937800-Sensa_Pusat_Oleh_Oleh_Khas_Malang-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Oleh-Oleh Malang? This is the place!",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d3631201-r497024311-Sensa_Pusat_Oleh_Oleh_Khas_Malang-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d7825035-Reviews-Rujak_Manis_Ananas_Pak_Bejo-Malang_East_Java_Java",
+      "locationId": 7825035,
+      "name": "Rujak Manis Ananas Pak Bejo",
+      "averageRating": 4.5,
+      "userReviewCount": 32,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Healthy", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/92/8a/ee/rujak-manis-ananas.jpg?w=1000&h=700&s=1",
+      "heroImgRawHeight": 704,
+      "heroImgRawWidth": 1013,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/92/8a/ee/rujak-manis-ananas.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/92/8a/ee/rujak-manis-ananas.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 704,
+            "maxWidth": 1013
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "The fruit is fresh and the bumbu rujak taste very good. Even my 4 years old...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7825035-r716295931-Rujak_Manis_Ananas_Pak_Bejo-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "A must \"snack\" at Malang",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7825035-r588653738-Rujak_Manis_Ananas_Pak_Bejo-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d6579269-Reviews-Depot_HTS_Han_Tjwan_Sing-Malang_East_Java_Java",
+      "locationId": 6579269,
+      "name": "Depot HTS (Han Tjwan Sing)",
+      "averageRating": 4,
+      "userReviewCount": 55,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c4/cd/60/ta-img-20160831-102957.jpg?w=2000&h=1100&s=1",
+      "heroImgRawHeight": 1152,
+      "heroImgRawWidth": 2048,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c4/cd/60/ta-img-20160831-102957.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c4/cd/60/ta-img-20160831-102957.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1152,
+            "maxWidth": 2048
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "You can enjoy the traditional food and also the onde-onde. Onde-onde is a...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d6579269-r307239472-Depot_HTS_Han_Tjwan_Sing-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Legendary Restaurant",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d6579269-r651989584-Depot_HTS_Han_Tjwan_Sing-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d10720384-Reviews-Rumah_Makan_Gloria-Malang_East_Java_Java",
+      "locationId": 10720384,
+      "name": "Rumah Makan Gloria",
+      "averageRating": 4,
+      "userReviewCount": 42,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$$ - $$$",
+      "hasMenu": true,
+      "menuUrl": "http://makanlagi.com/harga-menu-di-jardin-patisserie-malang/",
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Chinese", "Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/24/a3/97/rumah-makan-gloria.jpg?w=4000&h=3000&s=1",
+      "heroImgRawHeight": 3024,
+      "heroImgRawWidth": 4032,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/24/a3/97/rumah-makan-gloria.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/24/a3/97/rumah-makan-gloria.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 3024,
+            "maxWidth": 4032
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "There are many choices of dishes. If you are into chinese food, this is the...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d10720384-r713776079-Rumah_Makan_Gloria-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Great little find",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d10720384-r653816819-Rumah_Makan_Gloria-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d4554151-Reviews-Warung_Subuh-Malang_East_Java_Java",
+      "locationId": 4554151,
+      "name": "Warung Subuh",
+      "averageRating": 4,
+      "userReviewCount": 74,
+      "currentOpenStatusCategory": "OPEN",
+      "currentOpenStatusText": "Open now",
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/91/df/a1/20160530-223049-largejpg.jpg?w=1600&h=900&s=1",
+      "heroImgRawHeight": 918,
+      "heroImgRawWidth": 1632,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/91/df/a1/20160530-223049-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/91/df/a1/20160530-223049-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 918,
+            "maxWidth": 1632
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "It's like a mini food court with selected delicious foods. My favorite is sate...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d4554151-r542716182-Warung_Subuh-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "one stop culinary",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d4554151-r589350315-Warung_Subuh-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d12279625-Reviews-Cafe_Sawah-Malang_East_Java_Java",
+      "locationId": 12279625,
+      "name": "Cafe Sawah",
+      "averageRating": 4,
+      "userReviewCount": 39,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/19/23/9c/img20180728134826-largejpg.jpg?w=1000&h=700&s=1",
+      "heroImgRawHeight": 780,
+      "heroImgRawWidth": 1040,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/19/23/9c/img20180728134826-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/19/23/9c/img20180728134826-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 780,
+            "maxWidth": 1040
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "An interesting place to have your meals. The view was phenomenal, nicely...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d12279625-r630719843-Cafe_Sawah-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Environment",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d12279625-r749858806-Cafe_Sawah-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d7134088-Reviews-Ayam_Goreng_Pemuda-Malang_East_Java_Java",
+      "locationId": 7134088,
+      "name": "Ayam Goreng Pemuda",
+      "averageRating": 4,
+      "userReviewCount": 49,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/88/1e/35/20190727-201644-largejpg.jpg?w=700&h=500&s=1",
+      "heroImgRawHeight": 531,
+      "heroImgRawWidth": 708,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/88/1e/35/20190727-201644-largejpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/88/1e/35/20190727-201644-largejpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 531,
+            "maxWidth": 708
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Despite of other similar-taste ayam goreng nearbly, I think this place provides...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7134088-r590002136-Ayam_Goreng_Pemuda-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Tasty Chicken Restaurant",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7134088-r507775453-Ayam_Goreng_Pemuda-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d7003750-Reviews-Soto_Ayam_Ambengan-Malang_East_Java_Java",
+      "locationId": 7003750,
+      "name": "Soto Ayam Ambengan",
+      "averageRating": 4,
+      "userReviewCount": 46,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Fast Food", "Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/89/89/16/p-20190727-081300-vhdr.jpg?w=900&h=700&s=1",
+      "heroImgRawHeight": 700,
+      "heroImgRawWidth": 934,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/89/89/16/p-20190727-081300-vhdr.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/89/89/16/p-20190727-081300-vhdr.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 700,
+            "maxWidth": 934
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Unlike other soto, they're thicker and bolder. Most soto comes with less spies...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7003750-r371473031-Soto_Ayam_Ambengan-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Another soto jerohan",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7003750-r970963475-Soto_Ayam_Ambengan-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d25175204-Reviews-Gumuk_Pangroso_Gss-Malang_East_Java_Java",
+      "locationId": 25175204,
+      "name": "Gumuk Pangroso Gss",
+      "averageRating": 5,
+      "userReviewCount": 8,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": null,
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/d6/38/e8/caption.jpg?w=1600&h=1200&s=1",
+      "heroImgRawHeight": 1205,
+      "heroImgRawWidth": 1606,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/d6/38/e8/caption.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/d6/38/e8/caption.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1205,
+            "maxWidth": 1606
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Holiday",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d25175204-r926838853-Gumuk_Pangroso_Gss-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "perfect",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d25175204-r926372614-Gumuk_Pangroso_Gss-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d25179605-Reviews-The_Menu-Malang_East_Java_Java",
+      "locationId": 25179605,
+      "name": "The Menu",
+      "averageRating": 5,
+      "userReviewCount": 8,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": null,
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/32/07/06/camilan-stik-bawang-yang.jpg?w=700&h=1200&s=1",
+      "heroImgRawHeight": 1280,
+      "heroImgRawWidth": 720,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/32/07/06/camilan-stik-bawang-yang.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/32/07/06/camilan-stik-bawang-yang.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1280,
+            "maxWidth": 720
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Recommended cheese sticks",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d25179605-r926413657-The_Menu-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Visit with family",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d25179605-r926413603-The_Menu-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d7706475-Reviews-Hot_Cui_Mie-Malang_East_Java_Java",
+      "locationId": 7706475,
+      "name": "Hot Cui Mie",
+      "averageRating": 4,
+      "userReviewCount": 58,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ad/d4/cf/yummy-yummy-yummy-worth.jpg?w=1600&h=1000&s=1",
+      "heroImgRawHeight": 1080,
+      "heroImgRawWidth": 1620,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ad/d4/cf/yummy-yummy-yummy-worth.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ad/d4/cf/yummy-yummy-yummy-worth.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1080,
+            "maxWidth": 1620
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Apparently this restaurant is located near the hotel i was staying, so it's...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7706475-r552195169-Hot_Cui_Mie-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Hot Cui Mie ",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7706475-r775856890-Hot_Cui_Mie-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d12086917-Reviews-My_Kopi_O_Indonesian_Bistro-Malang_East_Java_Java",
+      "locationId": 12086917,
+      "name": "My Kopi O! Indonesian Bistro",
+      "averageRating": 4.5,
+      "userReviewCount": 27,
+      "currentOpenStatusCategory": "CLOSING",
+      "currentOpenStatusText": "Closes in 4 min",
+      "priceTag": "$$ - $$$",
+      "hasMenu": true,
+      "menuUrl": "http://mykopio.com/my-kopi-o-menus/",
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/69/cb/be/romantic-night-ambience.jpg?w=2000&h=1300&s=1",
+      "heroImgRawHeight": 1334,
+      "heroImgRawWidth": 2000,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/69/cb/be/romantic-night-ambience.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/69/cb/be/romantic-night-ambience.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1334,
+            "maxWidth": 2000
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "yet we are coming back for their coffee. most of their coffee menu are great...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d12086917-r679008469-My_Kopi_O_Indonesian_Bistro-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "one of best restaurant in town.",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d12086917-r630877820-My_Kopi_O_Indonesian_Bistro-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d7061265-Reviews-Aventree_Bbq_Resto_and_Homestay-Malang_East_Java_Java",
+      "locationId": 7061265,
+      "name": "Aventree Bbq Resto and Homestay",
+      "averageRating": 4,
+      "userReviewCount": 39,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": true,
+      "menuUrl": "http://www.aventree.co.id/bbq-resto/menu/",
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": [
+        "Barbecue",
+        "Asian",
+        "Korean",
+        "Grill"
+      ],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/29/6c/06/dakkochi-korean-chicken.jpg?w=1000&h=1000&s=1",
+      "heroImgRawHeight": 1000,
+      "heroImgRawWidth": 1000,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/29/6c/06/dakkochi-korean-chicken.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/29/6c/06/dakkochi-korean-chicken.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1000,
+            "maxWidth": 1000
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Fall in love with all the food, beverage, and its Korean atmosphere♡♡♡ Maintain...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7061265-r749588569-Aventree_Bbq_Resto_and_Homestay-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Nice Combo of Resto and Homestay",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7061265-r825085087-Aventree_Bbq_Resto_and_Homestay-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d8730158-Reviews-Bubur_Agus-Malang_East_Java_Java",
+      "locationId": 8730158,
+      "name": "Bubur Agus",
+      "averageRating": 4.5,
+      "userReviewCount": 22,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/7c/1e/96/photogrid-1550315520221.jpg?w=1000&h=1000&s=1",
+      "heroImgRawHeight": 1024,
+      "heroImgRawWidth": 1024,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/7c/1e/96/photogrid-1550315520221.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/7c/1e/96/photogrid-1550315520221.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1024,
+            "maxWidth": 1024
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Bubur in the morning for your breakfast? Why not! This is the recommended place...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8730158-r617805952-Bubur_Agus-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Legendary porridge in Malang",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8730158-r584242474-Bubur_Agus-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d25189846-Reviews-D_teras24-Malang_East_Java_Java",
+      "locationId": 25189846,
+      "name": "D'teras24",
+      "averageRating": 5,
+      "userReviewCount": 8,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": null,
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b3/26/5e/toko-cafe-sekaligus-tempat.jpg?w=1000&h=1500&s=1",
+      "heroImgRawHeight": 1545,
+      "heroImgRawWidth": 1080,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b3/26/5e/toko-cafe-sekaligus-tempat.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b3/26/5e/toko-cafe-sekaligus-tempat.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1545,
+            "maxWidth": 1080
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Try and enjoy cookies",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d25189846-r924974040-D_teras24-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Typical family snacks from Malang City. Made from selected quality ingredients.. very soft, yummy. It felt like my tongue wouldn't stop chewing",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d25189846-r931396548-D_teras24-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d8670011-Reviews-Und_Corner-Malang_East_Java_Java",
+      "locationId": 8670011,
+      "name": "Und Corner",
+      "averageRating": 4,
+      "userReviewCount": 35,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/1d/9c/49/the-perfect-place-for.jpg?w=1600&h=1200&s=1",
+      "heroImgRawHeight": 1224,
+      "heroImgRawWidth": 1632,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/1d/9c/49/the-perfect-place-for.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/1d/9c/49/the-perfect-place-for.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1224,
+            "maxWidth": 1632
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "The ice cream was also too sweet and it was brought too early so it had melt by...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8670011-r345719682-Und_Corner-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Really nice beaked goods, beautifully packaged",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d8670011-r685365566-Und_Corner-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d7762396-Reviews-Rawon_Jenggot-Malang_East_Java_Java",
+      "locationId": 7762396,
+      "name": "Rawon Jenggot",
+      "averageRating": 4,
+      "userReviewCount": 35,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/8d/e9/bc/nasi-campur.jpg?w=900&h=700&s=1",
+      "heroImgRawHeight": 768,
+      "heroImgRawWidth": 907,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/8d/e9/bc/nasi-campur.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/8d/e9/bc/nasi-campur.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 768,
+            "maxWidth": 907
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "This rawon outlet is one of the outlet which open in the night. Actually, I...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7762396-r532286284-Rawon_Jenggot-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Black Beef Soup and Other Dishes",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d7762396-r552798858-Rawon_Jenggot-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d25189839-Reviews-Pempek_Musi88-Malang_East_Java_Java",
+      "locationId": 25189839,
+      "name": "Pempek Musi88",
+      "averageRating": 5,
+      "userReviewCount": 7,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed now",
+      "priceTag": null,
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Asian", "Indonesian"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/bf/8c/a4/pempek-kapal-selam-isi.jpg?w=1700&h=900&s=1",
+      "heroImgRawHeight": 983,
+      "heroImgRawWidth": 1748,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/bf/8c/a4/pempek-kapal-selam-isi.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/bf/8c/a4/pempek-kapal-selam-isi.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 983,
+            "maxWidth": 1748
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "We like it",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d25189839-r925458407-Pempek_Musi88-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Pempek is delicious",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d25189839-r924599631-Pempek_Musi88-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d25175158-Reviews-Cafe_Mazedo_Inti_Jaya-Malang_East_Java_Java",
+      "locationId": 25175158,
+      "name": "Cafe Mazedo Inti Jaya",
+      "averageRating": 5,
+      "userReviewCount": 7,
+      "currentOpenStatusCategory": "CLOSED",
+      "currentOpenStatusText": "Closed today",
+      "priceTag": null,
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": [],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ae/d9/64/caption.jpg?w=1300&h=900&s=1",
+      "heroImgRawHeight": 975,
+      "heroImgRawWidth": 1300,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ae/d9/64/caption.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/ae/d9/64/caption.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 975,
+            "maxWidth": 1300
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Herbal drink",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d25175158-r926782478-Cafe_Mazedo_Inti_Jaya-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Mazedo herbs",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d25175158-r923134342-Cafe_Mazedo_Inti_Jaya-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    },
+    {
+      "restaurantsId": "Restaurant_Review-g297710-d13732603-Reviews-Java_Dancer_Coffee-Malang_East_Java_Java",
+      "locationId": 13732603,
+      "name": "Java Dancer Coffee",
+      "averageRating": 4,
+      "userReviewCount": 30,
+      "currentOpenStatusCategory": null,
+      "currentOpenStatusText": null,
+      "priceTag": "$$ - $$$",
+      "hasMenu": false,
+      "menuUrl": null,
+      "isDifferentGeo": false,
+      "parentGeoName": "Malang",
+      "distanceTo": null,
+      "awardInfo": null,
+      "isLocalChefItem": false,
+      "isPremium": false,
+      "isStoryboardPublished": false,
+      "establishmentTypeAndCuisineTags": ["Cafe"],
+      "offers": {
+        "hasDelivery": null,
+        "hasReservation": null,
+        "slot1Offer": null,
+        "slot2Offer": null,
+        "restaurantSpecialOffer": null
+      },
+      "heroImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/b1/35/ef/photo0jpg.jpg?w=2000&h=1500&s=1",
+      "heroImgRawHeight": 1536,
+      "heroImgRawWidth": 2048,
+      "squareImgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/b1/35/ef/photo0jpg.jpg?w=200&h=200&s=1",
+      "squareImgRawLength": 0,
+      "thumbnail": {
+        "photo": {
+          "photoSizeDynamic": {
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/b1/35/ef/photo0jpg.jpg?w={width}&h={height}&s=1",
+            "maxHeight": 1536,
+            "maxWidth": 2048
+          }
+        }
+      },
+      "reviewSnippets": {
+        "reviewSnippetsList": [
+          {
+            "reviewText": "Java Dancer, despite the somewhat strange name, has become our “go-to” place...",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d13732603-r623081330-Java_Dancer_Coffee-Malang_East_Java_Java.html"
+          },
+          {
+            "reviewText": "Just ok",
+            "reviewUrl": "https://www.tripadvisor.com/ShowUserReviews-g297710-d13732603-r872450555-Java_Dancer_Coffee-Malang_East_Java_Java.html"
+          }
+        ]
+      }
+    }
+  ]
+}
